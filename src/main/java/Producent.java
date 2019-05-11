@@ -15,7 +15,7 @@ public class Producent {
 
     public  String  toString(){
 
-      return "wyprodukowano samochod "+this.marka+" ,model "+this.model+" ,kolor "+this.kolor+" ,";
+      return "wyprodukowano samochod "+this.marka+" ,model "+this.model+" ,kolor "+this.kolor+" ,moc "+this.moc+" ,pojemnosc "+this.pojemnosc;
     }
 
 }
